@@ -1,0 +1,10 @@
+org.usfirst.frc4904.standard
+org.usfirst.frc4904.standard.commands
+org.usfirst.frc4904.standard.commands.chassis
+org.usfirst.frc4904.standard.commands.motor
+org.usfirst.frc4904.standard.custom
+org.usfirst.frc4904.standard.custom.controllers
+org.usfirst.frc4904.standard.custom.sensors
+org.usfirst.frc4904.standard.humaninterface
+org.usfirst.frc4904.standard.subsystems.chassis
+org.usfirst.frc4904.standard.subsystems.motor
